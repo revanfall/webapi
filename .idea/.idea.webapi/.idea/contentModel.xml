@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ilya\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_webapi.479413554.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ilya\source\repos\webapi" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="webapi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="webapi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+        <e p="webapi.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="webapi.sln" t="IncludeFlat" />
+      <e p="webapi1" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UsersController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="User.cs" t="Include" />
+          <e p="UserContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="webapi1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="webapi1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
